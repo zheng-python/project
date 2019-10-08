@@ -7,3 +7,4 @@ it is a sixth code,
 it is a seven code,
 it is a eight code,
 i want to learn python
+it is a cold day
