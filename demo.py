@@ -6,3 +6,4 @@ it is a fourth code,what???
 it is a sixth code,
 it is a seven code,
 it is a eight code,
+i want to learn python
