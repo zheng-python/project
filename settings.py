@@ -1,1 +1,2 @@
-Mysql
+Mysql = {}
+mongo_databases = {}
